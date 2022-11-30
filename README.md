@@ -1,5 +1,5 @@
 # Naturalista
-analisis de base de datos de la aplicacion de  naturalista (ejemplo reptiles)
+Analisis de base de datos de la aplicacion de  naturalista (ejemplo reptiles)
 bajar el archivo de ejemplo de este link (pesa mas de 25mb) son los registrso de reptiles en México
 https://drive.google.com/file/d/17N9Q-R4XJtFVyvzSszmNdeYm-Njrybob/view?usp=share_link
 
